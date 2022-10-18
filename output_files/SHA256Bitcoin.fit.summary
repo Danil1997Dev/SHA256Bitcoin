@@ -1,0 +1,20 @@
+Fitter Status : Successful - Tue Oct 18 19:51:19 2022
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : SHA256Bitcoin
+Top-level Entity Name : fpgaminer_top
+Family : Cyclone V
+Device : 5CSEBA6U23I7DK
+Timing Models : Final
+Logic utilization (in ALMs) : 27,919 / 41,910 ( 67 % )
+Total registers : 56931
+Total pins : 5 / 314 ( 2 % )
+Total virtual pins : 307
+Total block memory bits : 143,802 / 5,662,720 ( 3 % )
+Total RAM Blocks : 245 / 553 ( 44 % )
+Total DSP Blocks : 0 / 112 ( 0 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1 / 6 ( 17 % )
+Total DLLs : 0 / 4 ( 0 % )
